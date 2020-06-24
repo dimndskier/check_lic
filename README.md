@@ -4,3 +4,6 @@ A script for checking the validity of FlexLM licenses, given an argument of [d,w
 ## Usage
 Simply execute the shell script while providing it a single argument of d, w, or m.
 
+```
+./check_lic.sh d
+```
